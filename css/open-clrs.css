@@ -157,27 +157,27 @@
 
 /* ==== Colors ==== */
 /* Gray */
-.gray-00 { color: #f8f9fa; }
-.gray-01 { color: #f1f3f5; }
-.gray-02 { color: #e9ecef; }
-.gray-03 { color: #dee2e6; }
-.gray-04 { color: #ced4da; }
-.gray-05 { color: #adb5bd; }
-.gray-06 { color: #868e96; }
-.gray-07 { color: #495057; }
-.gray-08 { color: #343a40; }
-.gray-09 { color: #212529; }
+.gray-0 { color: #f8f9fa; }
+.gray-1 { color: #f1f3f5; }
+.gray-2 { color: #e9ecef; }
+.gray-3 { color: #dee2e6; }
+.gray-4 { color: #ced4da; }
+.gray-5 { color: #adb5bd; }
+.gray-6 { color: #868e96; }
+.gray-7 { color: #495057; }
+.gray-8 { color: #343a40; }
+.gray-9 { color: #212529; }
 /* Red */
-.red-00 { color: #fff5f5; }
-.red-01 { color: #ffe3e3; }
-.red-02 { color: #ffc9c9; }
-.red-03 { color: #ffa8a8; }
-.red-04 { color: #ff8787; }
-.red-05 { color: #ff6b6b; }
-.red-06 { color: #fa5252; }
-.red-07 { color: #f03e3e; }
-.red-08 { color: #e03131; }
-.red-09 { color: #c92a2a; }
+.red-0 { color: #fff5f5; }
+.red-1 { color: #ffe3e3; }
+.red-2 { color: #ffc9c9; }
+.red-3 { color: #ffa8a8; }
+.red-4 { color: #ff8787; }
+.red-5 { color: #ff6b6b; }
+.red-6 { color: #fa5252; }
+.red-7 { color: #f03e3e; }
+.red-8 { color: #e03131; }
+.red-9 { color: #c92a2a; }
 /* Pink */
 .pink-0 { color: #fff0f6; }
 .pink-1 { color: #ffdeeb; }
@@ -302,27 +302,27 @@
 
 /* ==== Border ==== */
 /* Gray */
-.border-gray-00 { border-color: #f8f9fa; }
-.border-gray-01 { border-color: #f1f3f5; }
-.border-gray-02 { border-color: #e9ecef; }
-.border-gray-03 { border-color: #dee2e6; }
-.border-gray-04 { border-color: #ced4da; }
-.border-gray-05 { border-color: #adb5bd; }
-.border-gray-06 { border-color: #868e96; }
-.border-gray-07 { border-color: #495057; }
-.border-gray-08 { border-color: #343a40; }
-.border-gray-09 { border-color: #212529; }
+.border-gray-0 { border-color: #f8f9fa; }
+.border-gray-1 { border-color: #f1f3f5; }
+.border-gray-2 { border-color: #e9ecef; }
+.border-gray-3 { border-color: #dee2e6; }
+.border-gray-4 { border-color: #ced4da; }
+.border-gray-5 { border-color: #adb5bd; }
+.border-gray-6 { border-color: #868e96; }
+.border-gray-7 { border-color: #495057; }
+.border-gray-8 { border-color: #343a40; }
+.border-gray-9 { border-color: #212529; }
 /* Red */
-.border-red-00 { border-color: #fff5f5; }
-.border-red-01 { border-color: #ffe3e3; }
-.border-red-02 { border-color: #ffc9c9; }
-.border-red-03 { border-color: #ffa8a8; }
-.border-red-04 { border-color: #ff8787; }
-.border-red-05 { border-color: #ff6b6b; }
-.border-red-06 { border-color: #fa5252; }
-.border-red-07 { border-color: #f03e3e; }
-.border-red-08 { border-color: #e03131; }
-.border-red-09 { border-color: #c92a2a; }
+.border-red-0 { border-color: #fff5f5; }
+.border-red-1 { border-color: #ffe3e3; }
+.border-red-2 { border-color: #ffc9c9; }
+.border-red-3 { border-color: #ffa8a8; }
+.border-red-4 { border-color: #ff8787; }
+.border-red-5 { border-color: #ff6b6b; }
+.border-red-6 { border-color: #fa5252; }
+.border-red-7 { border-color: #f03e3e; }
+.border-red-8 { border-color: #e03131; }
+.border-red-9 { border-color: #c92a2a; }
 /* Pink */
 .border-pink-0 { border-color: #fff0f6; }
 .border-pink-1 { border-color: #ffdeeb; }
@@ -448,27 +448,27 @@
 
 /* ==== Fills for SVG ==== */
 /* Gray */
-.fill-gray-00 { fill: #f8f9fa; }
-.fill-gray-01 { fill: #f1f3f5; }
-.fill-gray-02 { fill: #e9ecef; }
-.fill-gray-03 { fill: #dee2e6; }
-.fill-gray-04 { fill: #ced4da; }
-.fill-gray-05 { fill: #adb5bd; }
-.fill-gray-06 { fill: #868e96; }
-.fill-gray-07 { fill: #495057; }
-.fill-gray-08 { fill: #343a40; }
-.fill-gray-09 { fill: #212529; }
+.fill-gray-0 { fill: #f8f9fa; }
+.fill-gray-1 { fill: #f1f3f5; }
+.fill-gray-2 { fill: #e9ecef; }
+.fill-gray-3 { fill: #dee2e6; }
+.fill-gray-4 { fill: #ced4da; }
+.fill-gray-5 { fill: #adb5bd; }
+.fill-gray-6 { fill: #868e96; }
+.fill-gray-7 { fill: #495057; }
+.fill-gray-8 { fill: #343a40; }
+.fill-gray-9 { fill: #212529; }
 /* Red */
-.fill-red-00 { fill: #fff5f5; }
-.fill-red-01 { fill: #ffe3e3; }
-.fill-red-02 { fill: #ffc9c9; }
-.fill-red-03 { fill: #ffa8a8; }
-.fill-red-04 { fill: #ff8787; }
-.fill-red-05 { fill: #ff6b6b; }
-.fill-red-06 { fill: #fa5252; }
-.fill-red-07 { fill: #f03e3e; }
-.fill-red-08 { fill: #e03131; }
-.fill-red-09 { fill: #c92a2a; }
+.fill-red-0 { fill: #fff5f5; }
+.fill-red-1 { fill: #ffe3e3; }
+.fill-red-2 { fill: #ffc9c9; }
+.fill-red-3 { fill: #ffa8a8; }
+.fill-red-4 { fill: #ff8787; }
+.fill-red-5 { fill: #ff6b6b; }
+.fill-red-6 { fill: #fa5252; }
+.fill-red-7 { fill: #f03e3e; }
+.fill-red-8 { fill: #e03131; }
+.fill-red-9 { fill: #c92a2a; }
 /* Pink */
 .fill-pink-0 { fill: #fff0f6; }
 .fill-pink-1 { fill: #ffdeeb; }
@@ -594,27 +594,27 @@
 
 /* ==== Strokes for SVG ==== */
 /* Gray */
-.stroke-gray-00 { stroke: #f8f9fa; }
-.stroke-gray-01 { stroke: #f1f3f5; }
-.stroke-gray-02 { stroke: #e9ecef; }
-.stroke-gray-03 { stroke: #dee2e6; }
-.stroke-gray-04 { stroke: #ced4da; }
-.stroke-gray-05 { stroke: #adb5bd; }
-.stroke-gray-06 { stroke: #868e96; }
-.stroke-gray-07 { stroke: #495057; }
-.stroke-gray-08 { stroke: #343a40; }
-.stroke-gray-09 { stroke: #212529; }
+.stroke-gray-0 { stroke: #f8f9fa; }
+.stroke-gray-1 { stroke: #f1f3f5; }
+.stroke-gray-2 { stroke: #e9ecef; }
+.stroke-gray-3 { stroke: #dee2e6; }
+.stroke-gray-4 { stroke: #ced4da; }
+.stroke-gray-5 { stroke: #adb5bd; }
+.stroke-gray-6 { stroke: #868e96; }
+.stroke-gray-7 { stroke: #495057; }
+.stroke-gray-8 { stroke: #343a40; }
+.stroke-gray-9 { stroke: #212529; }
 /* Red */
-.stroke-red-00 { stroke: #fff5f5; }
-.stroke-red-01 { stroke: #ffe3e3; }
-.stroke-red-02 { stroke: #ffc9c9; }
-.stroke-red-03 { stroke: #ffa8a8; }
-.stroke-red-04 { stroke: #ff8787; }
-.stroke-red-05 { stroke: #ff6b6b; }
-.stroke-red-06 { stroke: #fa5252; }
-.stroke-red-07 { stroke: #f03e3e; }
-.stroke-red-08 { stroke: #e03131; }
-.stroke-red-09 { stroke: #c92a2a; }
+.stroke-red-0 { stroke: #fff5f5; }
+.stroke-red-1 { stroke: #ffe3e3; }
+.stroke-red-2 { stroke: #ffc9c9; }
+.stroke-red-3 { stroke: #ffa8a8; }
+.stroke-red-4 { stroke: #ff8787; }
+.stroke-red-5 { stroke: #ff6b6b; }
+.stroke-red-6 { stroke: #fa5252; }
+.stroke-red-7 { stroke: #f03e3e; }
+.stroke-red-8 { stroke: #e03131; }
+.stroke-red-9 { stroke: #c92a2a; }
 /* Pink */
 .stroke-pink-0 { stroke: #fff0f6; }
 .stroke-pink-1 { stroke: #ffdeeb; }
